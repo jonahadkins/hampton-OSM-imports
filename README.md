@@ -17,11 +17,13 @@ Imported buildingswill have the following `building=` tags populated:
 
 | Building  |   Count |
 | ------------- | ------------- |
-| garage  | 6,988  |
-| house  | 46,015  |
-| shed  | 2,319  |
+| apartments  | 2,805  |
+| church  | 109  |
+| garage  | 6,907  |
+| house  | 43,434  |
+| shed  | 2,277  |
 | static_caravan  | 635  |
-| yes  | 3,520  |
+| yes  | 3,310  |
 
 
 
