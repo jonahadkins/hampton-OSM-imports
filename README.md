@@ -11,9 +11,11 @@ City of Hampton, Virginia GIS department has provided building footprints and ad
 59,477 Total Buildings  
 * 43,970 Buildings (!= shed/garage) with Addresses - 73%  !!
 
-Imports will be done through the dedicated user account [jonahadkins_hampton_import](https://www.openstreetmap.org/user/jonahadkins_hampton_imports/) and will be done through OSM Import Guidelines - [See Wiki](https://wiki.openstreetmap.org/wiki/City_of_Hampton_Buildings/Address_Import)
+Imports will be done through the dedicated user account [jonahadkins_hampton_import](https://www.openstreetmap.org/user/jonahadkins_hampton_imports/) and will be done through OSM Import Guidelines - [See Wiki](https://wiki.openstreetmap.org/wiki/City_of_Hampton_Buildings/Address_Import)  
 
-Imported buildingswill have the following `building=` tags populated:  
+![](https://raw.githubusercontent.com/jonahadkins/hampton-OSM-imports/master/post_hampton.png)
+
+Imported buildings have the following `building=` tags populated:  
 
 | Building  |   Count |
 | ------------- | ------------- |
